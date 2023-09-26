@@ -1,0 +1,28 @@
+---
+title: "Research Operations"
+---
+
+::: callout-warning
+This is very much a work-in-progress!
+:::
+
+What is Research Operations?
+
+## Vision
+
+> Improving research through education and building better social,
+> organizational, and technical infrastructures
+
+## Mission
+
+> Running activities, events, and projects that center on
+> "meta-research", open science, coding and reproducibility, software
+> development, project / organization management, and effective
+> collaboration.
+
+## Support and help
+
+Is there a task or activity you do fairly often that feels very
+repetitive and manual? Maybe we can
+
+https://researchops.community/

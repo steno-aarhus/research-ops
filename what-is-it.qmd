@@ -1,0 +1,59 @@
+## Links
+
+-   https://en.wikipedia.org/wiki/Operations_management
+-   https://www.rockefeller.edu/education-and-training/graduate-program-in-bioscience/career-development/managing-science-and-scientists-workshop/
+-   https://www.crick.ac.uk/careers-study/operations
+-   https://www.nngroup.com/articles/research-ops-101/
+-   https://researchops.community/
+-   https://app.mural.co/t/researchopscommunity7839/m/researchopscommunity7839/1539419866773/d21dd2cce77e9e502dcdb46c4abfa7ad8a0aff88?sender=c2d80364-0d2b-4d89-a899-2be75f4400a2
+-   https://elixir-europe.org/what-we-offer/guidelines
+
+## Notes
+
+-   There doesn't seem to be any easily findable information about how
+    operations management can be used *within* research/science to
+    improve things. Lots of info on research *about* it on business
+    cases.
+-   Some ResearchOps topics:
+    -   Guidelines and templates
+    -   Budget management
+    -   Project management
+    -   Capabilities and opportunities
+    -   Tools
+    -   Governance
+    -   Knowledge management
+    -   People management (relationship building)
+    -   Internal communications
+    -   Participant Recruitment (for human studies)
+    -   Data management
+-   Activities within ResearchOps:
+    -   Automation of tasks
+    -   Writing documentation on Standard Operating Procedures and on
+        general workflows and processes
+    -   Creating and running training programs
+    -   Template/general frameworks for conducting studies
+    -   Establishing logistics
+    -   Software recommendation and support
+    -   Developing automated reports for progress/status
+    -   Converting tasks to operational, distinct units
+
+## Brainstorming
+
+-   Focus is on the bigger picture of the research lifecycle
+
+## Description
+
+> "ResearchOps is the people, mechanisms, and strategies that set ...
+> research in motion. It provides the roles, tools and processes needed
+> to support researchers in delivering and scaling the impact of the
+> craft across an organisation." --- ResearchOps Community
+
+Currently it is focused on "[user
+research](https://en.wikipedia.org/wiki/User_research)", which is the
+process of researching how users interact with a product, service, or
+website. It is part of UX (User Experience) design and evaluation
+process.
+
+We want to extend these concepts to include scientific research in
+general, since there are many overlaps between user research and
+research within academic or scientific settings.
