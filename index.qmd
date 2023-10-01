@@ -1,28 +1,69 @@
 ---
 title: "Research Operations"
+subtitle: "Designing and building better social, organizational, and technical infrastructures and educational resources to make the research lifecycle easier and faster"
 ---
 
 ::: callout-warning
 This is very much a work-in-progress!
 :::
 
-What is Research Operations?
+>
 
-## Vision
+We want to extend these concepts to include scientific research in
+general, since there are many overlaps between user research and
+research within academic or scientific settings.
 
-> Improving research through education and building better social,
-> organizational, and technical infrastructures
+```{mermaid}
+%%| echo: false
+%%| fig-cap: "An evolving diagram of (some) components within ResearchOps."
+flowchart LR
+  main(("ResearchOps")) --> guides("Guidelines\nand templates")
+  main --> tools("Tools")
+  main --> data-ops("Data Operations")
+  main --> people-management("People\n")
+  main --> proj-management("Project\nmanagement")
+  main --> capabilities("Capabilities and\nopportunities")
+  main --> organizational("Organizational\nmanagement")
 
-## Mission
+  tools --> software("Software")
 
-> Running activities, events, and projects that center on
+  software --> seedcase["Seedcase"]:::wip
+  guides --> common-docs["Common Docs"]:::wip
+  %% logistics --> participant-recruitment["Participant\nrecruitment"]
+  data-ops --> automation
+  data-ops --> seedcase
+
+  %% To add later?
+  %% main --> knowledge-management("Knowledge\nmanagement")
+  %% software("Software") --> automation["Automation"]
+  %% data-ops --> data-management["Data management"]
+
+  classDef wip stroke:#000,stroke-width:3px
+```
+
+-   Guidelines and templates
+-   Budget management
+-   Project management
+-   Capabilities and opportunities
+-   Tools
+-   Governance
+-   Knowledge management
+-   People management (relationship building)
+-   Internal communications
+-   Participant Recruitment (for human studies)
+-   Data management
+
+## Our mission
+
+- Support researchers and other staff by removing or reducing some operational tasks from their daily work.
+- 
+
+> To run activities, events, and projects that center on
 > "meta-research", open science, coding and reproducibility, software
-> development, project / organization management, and effective
+> development, project / organizational management, and effective
 > collaboration.
 
-## Support and help
+## Send us a request for help!
 
-Is there a task or activity you do fairly often that feels very
-repetitive and manual? Maybe we can
+Is there a task or activity you do fairly often that feels very repetitive and manual, something you would prefer not to do but that has to be done? Maybe we can help! Fill in the form below and we'll set up a time to chat about it.
 
-https://researchops.community/
