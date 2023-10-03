@@ -7,7 +7,12 @@ subtitle: "Refining, simplifying, and streamlining the entire research lifecycle
 This is very much a work-in-progress!
 :::
 
-Research Operations (ResearchOps) is about designing and building (or improving) the social, organizational, and technical infrastructures that underlie the research lifecycle to be simpler, easier, and faster. The main aim is to reduce non-creative or non-social work by automating or streamlining them, as well as to provide training, documentation, and templates to simplify work that can't be automated or streamlined.
+Research Operations (ResearchOps) is about designing and building (or
+improving) the social, organizational, and technical infrastructures
+that underlie the research lifecycle to be simpler, easier, and faster.
+The main aim is to reduce non-creative or non-social work by automating
+or streamlining them, as well as to provide training, documentation, and
+templates to simplify work that can't be automated or streamlined.
 
 ```{mermaid}
 %%| echo: false
@@ -37,12 +42,25 @@ flowchart LR
 
 ## Our current focuses
 
-- Collaborate with researchers and staff to identify tasks that are repetitive and/or done regularly, and try to convert them to easier and faster 
-- Work with researchers to help convert intensive, time-consuming analyses to be faster
-- Develop and run training sessions or tutorials on different aspects within ResearchOps
+-   Collaborate with researchers and staff to identify tasks that are
+    repetitive and/or done regularly, and try to convert them to easier
+    and faster
+-   Work with researchers to help convert intensive, time-consuming
+    analyses to be faster
+-   Develop and run training sessions or tutorials on different aspects
+    within ResearchOps
 
 ## Send us ideas for work!
 
-If you have any tasks or activities that you do fairly often, that is repetitive, that doesn't require much creative work, or is a complex analytical (not statistical) coding problem, maybe we can work together to help out! Let us know by filling in the form below and we can set up a time to chat about it!
+If you have any tasks or activities that you do fairly often, that is
+repetitive, that doesn't require much creative work, or is a complex
+analytical (not statistical) coding problem, maybe we can work together
+to help out! Let us know by filling in the form below and we can set up
+a time to chat about it!
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe19WX7ZkB_EUzmDH89lFDRnfblP9-6lo3fxXU_eWiHFO6cOg/viewform?embedded=true" width="650" height="750" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe19WX7ZkB_EUzmDH89lFDRnfblP9-6lo3fxXU_eWiHFO6cOg/viewform?embedded=true" width="650" height="750" frameborder="0" marginheight="0" marginwidth="0">
+
+Loading...
+
+</iframe>
+
