@@ -7,6 +7,9 @@ website:
     left:
       - href: index.qmd
         text: Home
+    tools:
+      - icon: github
+        href: "https://github.com/steno-aarhus/research-ops"
 
 format:
   html:
@@ -14,7 +17,7 @@ format:
     toc: true
 
 editor:
-  markdown: 
+  markdown:
     wrap: 72
     canonical: true
 
