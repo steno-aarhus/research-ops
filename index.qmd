@@ -1,69 +1,48 @@
 ---
 title: "Research Operations"
-subtitle: "Designing and building better social, organizational, and technical infrastructures and educational resources to make the research lifecycle easier and faster"
+subtitle: "Refining, simplifying, and streamlining the entire research lifecycle."
 ---
 
 ::: callout-warning
 This is very much a work-in-progress!
 :::
 
->
-
-We want to extend these concepts to include scientific research in
-general, since there are many overlaps between user research and
-research within academic or scientific settings.
+Research Operations (ResearchOps) is about designing and building (or improving) the social, organizational, and technical infrastructures that underlie the research lifecycle to be simpler, easier, and faster. The main aim is to reduce non-creative or non-social work by automating or streamlining them, as well as to provide training, documentation, and templates to simplify work that can't be automated or streamlined.
 
 ```{mermaid}
 %%| echo: false
-%%| fig-cap: "An evolving diagram of (some) components within ResearchOps."
+%%| fig-cap: "An evolving diagram of (some) components within ResearchOps. The bolded items are ones we are working on."
 flowchart LR
   main(("ResearchOps")) --> guides("Guidelines\nand templates")
   main --> tools("Tools")
   main --> data-ops("Data Operations")
-  main --> people-management("People\n")
+  main --> social-relations("Social\nrelations")
   main --> proj-management("Project\nmanagement")
   main --> capabilities("Capabilities and\nopportunities")
   main --> organizational("Organizational\nmanagement")
 
-  tools --> software("Software")
-
-  software --> seedcase["Seedcase"]:::wip
+  tools --> seedcase["Seedcase"]:::wip
   guides --> common-docs["Common Docs"]:::wip
-  %% logistics --> participant-recruitment["Participant\nrecruitment"]
-  data-ops --> automation
   data-ops --> seedcase
+  capabilities --> r-courses["Reproducible Research\nin R courses"]:::wip
 
   %% To add later?
   %% main --> knowledge-management("Knowledge\nmanagement")
   %% software("Software") --> automation["Automation"]
   %% data-ops --> data-management["Data management"]
+  %% logistics --> participant-recruitment["Participant\nrecruitment"]
 
-  classDef wip stroke:#000,stroke-width:3px
+  classDef wip stroke:#000,stroke-width:1.2px
 ```
 
--   Guidelines and templates
--   Budget management
--   Project management
--   Capabilities and opportunities
--   Tools
--   Governance
--   Knowledge management
--   People management (relationship building)
--   Internal communications
--   Participant Recruitment (for human studies)
--   Data management
+## Our current focuses
 
-## Our mission
+- Collaborate with researchers and staff to identify tasks that are repetitive and/or done regularly, and try to convert them to easier and faster 
+- Work with researchers to help convert intensive, time-consuming analyses to be faster
+- Develop and run training sessions or tutorials on different aspects within ResearchOps
 
-- Support researchers and other staff by removing or reducing some operational tasks from their daily work.
-- 
+## Send us ideas for work!
 
-> To run activities, events, and projects that center on
-> "meta-research", open science, coding and reproducibility, software
-> development, project / organizational management, and effective
-> collaboration.
+If you have any tasks or activities that you do fairly often, that is repetitive, that doesn't require much creative work, or is a complex analytical (not statistical) coding problem, maybe we can work together to help out! Let us know by filling in the form below and we can set up a time to chat about it!
 
-## Send us a request for help!
-
-Is there a task or activity you do fairly often that feels very repetitive and manual, something you would prefer not to do but that has to be done? Maybe we can help! Fill in the form below and we'll set up a time to chat about it.
-
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe19WX7ZkB_EUzmDH89lFDRnfblP9-6lo3fxXU_eWiHFO6cOg/viewform?embedded=true" width="650" height="750" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
