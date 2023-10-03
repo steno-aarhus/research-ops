@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About ResearchOps",
+    "section": "",
+    "text": "“ResearchOps is the people, mechanisms, and strategies that set … research in motion. It provides the roles, tools, and processes needed to support researchers in delivering and scaling the impact of the craft across an organisation.” — ResearchOps Community\n\nWhat is Research Operations? It is a branch of “Operations management” that focuses on the research lifecycle, rather than traditional manufacturing and other business operations.\nThe current definition of ResearchOps comes from “user research”, which is the process of researching how users interact with a product, service, or website. It is part of UX (User Experience) design and evaluation process.\nWe want to extend these concepts to include scientific research in general, since there are many overlaps between user research and research within academic or scientific settings."
+  },
+  {
+    "objectID": "what-is-it.html",
+    "href": "what-is-it.html",
+    "title": "ResearchOps",
+    "section": "",
+    "text": "https://en.wikipedia.org/wiki/Operations_management\nhttps://www.rockefeller.edu/education-and-training/graduate-program-in-bioscience/career-development/managing-science-and-scientists-workshop/\nhttps://www.crick.ac.uk/careers-study/operations\nhttps://www.nngroup.com/articles/research-ops-101/\nhttps://researchops.community/\nhttps://app.mural.co/t/researchopscommunity7839/m/researchopscommunity7839/1539419866773/d21dd2cce77e9e502dcdb46c4abfa7ad8a0aff88?sender=c2d80364-0d2b-4d89-a899-2be75f4400a2\nhttps://elixir-europe.org/what-we-offer/guidelines"
+  },
+  {
+    "objectID": "what-is-it.html#links",
+    "href": "what-is-it.html#links",
+    "title": "ResearchOps",
+    "section": "",
+    "text": "https://en.wikipedia.org/wiki/Operations_management\nhttps://www.rockefeller.edu/education-and-training/graduate-program-in-bioscience/career-development/managing-science-and-scientists-workshop/\nhttps://www.crick.ac.uk/careers-study/operations\nhttps://www.nngroup.com/articles/research-ops-101/\nhttps://researchops.community/\nhttps://app.mural.co/t/researchopscommunity7839/m/researchopscommunity7839/1539419866773/d21dd2cce77e9e502dcdb46c4abfa7ad8a0aff88?sender=c2d80364-0d2b-4d89-a899-2be75f4400a2\nhttps://elixir-europe.org/what-we-offer/guidelines"
+  },
+  {
+    "objectID": "what-is-it.html#notes",
+    "href": "what-is-it.html#notes",
+    "title": "ResearchOps",
+    "section": "Notes",
+    "text": "Notes\n\nThere doesn’t seem to be any easily findable information about how operations management can be used within research/science to improve things. Lots of info on research about it on business cases.\nSome ResearchOps topics:\n\nGuidelines and templates\nBudget management\nProject management\nCapabilities and opportunities\nTools\nGovernance\nKnowledge management\nPeople management (relationship building)\nInternal communications\nParticipant Recruitment (for human studies)\nData management\n\nActivities within ResearchOps:\n\nAutomation of tasks\nWriting documentation on Standard Operating Procedures and on general workflows and processes\nCreating and running training programs\nTemplate/general frameworks for conducting studies\nEstablishing logistics\nSoftware recommendation and support\nDeveloping automated reports for progress/status\nConverting tasks to operational, distinct units"
+  },
+  {
+    "objectID": "what-is-it.html#brainstorming",
+    "href": "what-is-it.html#brainstorming",
+    "title": "ResearchOps",
+    "section": "Brainstorming",
+    "text": "Brainstorming\n\nFocus is on the bigger picture of the research lifecycle"
+  },
+  {
+    "objectID": "what-is-it.html#description",
+    "href": "what-is-it.html#description",
+    "title": "ResearchOps",
+    "section": "Description",
+    "text": "Description\n\n“ResearchOps is the people, mechanisms, and strategies that set … research in motion. It provides the roles, tools and processes needed to support researchers in delivering and scaling the impact of the craft across an organisation.” — ResearchOps Community\n\nCurrently it is focused on “user research”, which is the process of researching how users interact with a product, service, or website. It is part of UX (User Experience) design and evaluation process.\nWe want to extend these concepts to include scientific research in general, since there are many overlaps between user research and research within academic or scientific settings."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Research Operations",
+    "section": "",
+    "text": "Warning\n\n\n\nThis is very much a work-in-progress!\nResearch Operations (ResearchOps) is about designing and building (or improving) the social, organizational, and technical infrastructures that underlie the research lifecycle to be simpler, easier, and faster. The main aim is to reduce non-creative or non-social work by automating or streamlining them, as well as to provide training, documentation, and templates to simplify work that can’t be automated or streamlined.\nflowchart LR\n  main((\"ResearchOps\")) --&gt; guides(\"Guidelines\\nand templates\")\n  main --&gt; tools(\"Tools\")\n  main --&gt; data-ops(\"Data Operations\")\n  main --&gt; social-relations(\"Social\\nrelations\")\n  main --&gt; proj-management(\"Project\\nmanagement\")\n  main --&gt; capabilities(\"Capabilities and\\nopportunities\")\n  main --&gt; organizational(\"Organizational\\nmanagement\")\n\n  tools --&gt; seedcase[\"Seedcase\"]:::wip\n  guides --&gt; common-docs[\"Common Docs\"]:::wip\n  data-ops --&gt; seedcase\n  capabilities --&gt; r-courses[\"Reproducible Research\\nin R courses\"]:::wip\n\n  %% To add later?\n  %% main --&gt; knowledge-management(\"Knowledge\\nmanagement\")\n  %% software(\"Software\") --&gt; automation[\"Automation\"]\n  %% data-ops --&gt; data-management[\"Data management\"]\n  %% logistics --&gt; participant-recruitment[\"Participant\\nrecruitment\"]\n\n  classDef wip stroke:#000,stroke-width:1.2px\n\n\nAn evolving diagram of (some) components within ResearchOps. The bolded items are ones we are working on."
+  },
+  {
+    "objectID": "index.html#our-current-focuses",
+    "href": "index.html#our-current-focuses",
+    "title": "Research Operations",
+    "section": "Our current focuses",
+    "text": "Our current focuses\n\nCollaborate with researchers and staff to identify tasks that are repetitive and/or done regularly, and try to convert them to easier and faster\nWork with researchers to help convert intensive, time-consuming analyses to be faster\nDevelop and run training sessions or tutorials on different aspects within ResearchOps"
+  },
+  {
+    "objectID": "index.html#send-us-ideas-for-work",
+    "href": "index.html#send-us-ideas-for-work",
+    "title": "Research Operations",
+    "section": "Send us ideas for work!",
+    "text": "Send us ideas for work!\nIf you have any tasks or activities that you do fairly often, that is repetitive, that doesn’t require much creative work, or is a complex analytical (not statistical) coding problem, maybe we can work together to help out! Let us know by filling in the form below and we can set up a time to chat about it!\n\n&lt;p&gt;Loading…&lt;/p&gt;"
+  }
+]
