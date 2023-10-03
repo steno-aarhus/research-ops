@@ -1,12 +1,20 @@
+---
+title: About ResearchOps
+---
+
 > "ResearchOps is the people, mechanisms, and strategies that set ...
 > research in motion. It provides the roles, tools, and processes needed
 > to support researchers in delivering and scaling the impact of the
 > craft across an organisation." --- [ResearchOps Community](https://researchops.community/)
 
-What is Research Operations? It is a branch of ["Operations management"](https://en.wikipedia.org/wiki/Operations_management) that focuses 
+What is Research Operations? It is a branch of ["Operations management"](https://en.wikipedia.org/wiki/Operations_management) that focuses on the research lifecycle, rather than traditional manufacturing and other business operations.
 
 The current definition of ResearchOps comes from "[user
 research](https://en.wikipedia.org/wiki/User_research)", which is the
 process of researching how users interact with a product, service, or
 website. It is part of UX (User Experience) design and evaluation
 process. 
+
+We want to extend these concepts to include scientific research in
+general, since there are many overlaps between user research and
+research within academic or scientific settings.
