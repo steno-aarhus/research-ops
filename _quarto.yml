@@ -1,20 +1,31 @@
 project:
-  type: website
+  type: sdca-theme
 
 website:
   title: "ResearchOps"
+  site-url: "https://steno-aarhus.github.io/research-ops/"
+  repo-url: "https://github.com/steno-aarhus/research-ops"
   navbar:
     left:
       - href: index.qmd
         text: Home
     tools:
       - icon: github
-        href: "https://github.com/steno-aarhus/research-ops"
+        href: "https://github.com/steno-aarhus/"
+      - icon: twitter
+        href: "https://twitter.com/StenoAarhusRes"
+      - icon: three-dots-vertical
+        menu:
+          - text: Official site
+            href: "https://www.stenoaarhus.dk/research"
+          - text: Common Docs
+            href: "https://steno-aarhus.github.io/research"
+          - text: Epi Stats
+            href: "https://steno-aarhus.github.io/epi-stats"
+          - text: Register Space
+            href: "https://steno-aarhus.github.io/register-space"
 
-format:
-  html:
-    theme: cosmo
-    toc: true
+format: sdca-theme-html
 
 editor:
   markdown:
