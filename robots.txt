@@ -1,1 +1,1 @@
-Sitemap: https://github.com/steno-aarhus/research-ops/sitemap.xml
+Sitemap: https://steno-aarhus.github.io/research-ops/sitemap.xml
