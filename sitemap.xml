@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://steno-aarhus.github.io/research-ops/index.html</loc>
-    <lastmod>2025-09-15T12:25:54.122Z</lastmod>
-  </url>
-  <url>
     <loc>https://steno-aarhus.github.io/research-ops/LICENSE.html</loc>
-    <lastmod>2025-09-15T12:25:54.116Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/research-ops/directory.html</loc>
-    <lastmod>2025-09-15T12:25:54.122Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/research-ops/what-is-it.html</loc>
-    <lastmod>2025-09-15T12:25:54.122Z</lastmod>
+    <lastmod>2026-04-27T09:00:38.336Z</lastmod>
   </url>
   <url>
     <loc>https://steno-aarhus.github.io/research-ops/about.html</loc>
-    <lastmod>2025-09-15T12:25:54.122Z</lastmod>
+    <lastmod>2026-04-27T09:00:38.340Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/research-ops/what-is-it.html</loc>
+    <lastmod>2026-04-27T09:00:38.340Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/research-ops/index.html</loc>
+    <lastmod>2026-04-27T09:00:38.340Z</lastmod>
   </url>
 </urlset>
